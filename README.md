@@ -22,3 +22,4 @@ Traffic-Signal-Project/
 ## 🖼️ Preview
 
 ![Preview](https://github.com/SoyamKayasth/Traffic-Signal-Project/blob/main/preview.png?raw=true)
+
