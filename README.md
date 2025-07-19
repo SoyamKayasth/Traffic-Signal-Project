@@ -18,3 +18,5 @@ Traffic-Signal-Project/
 │
 ├── Traffic_Signal.html     # Main HTML file
 └── traffic_light.css       # Styling for the traffic signal
+
+![Traffic Signal Preview][(https://raw.githubusercontent.com/SoyamKayasth/Traffic-Signal-Project/3b32ea3881e04e6d25d169a41a75879494ccdbe6/preview.png)]
