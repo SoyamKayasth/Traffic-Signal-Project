@@ -1,0 +1,56 @@
+/* Traffic Light CSS */
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #3b3838; /* Light background for contrast */
+    box-shadow:2px 2px 10px rgb(86, 81, 81);
+    margin: auto;
+}
+#outer{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+    border-radius: 1.7rem;
+    background-color: rgba(46, 42, 42 , 0.9);
+    margin:0% 0% 0% 0%;
+   position: relative;
+   margin-top: 2rem;
+}
+.inner{
+    height:3.1rem;
+    width: 3.1rem;
+    border-radius: 50%;
+    margin: 10px;
+    border: 1px solid rgb(83, 77, 77);
+}
+  #piller{
+    height: 40rem;
+    width: 10px;
+    background-color: rgb(45, 43, 43);
+    display:block;
+    border:2px solid black;
+    border-radius: 0px 0px 8px 8px;
+    margin-bottom: 5px;
+  }
+#red{
+    background-color:rgb(253, 28, 28);
+}
+#yellow{
+    background-color:yellow;
+}
+#green{
+ background-color:green;
+}
+ 
+ #red:hover{
+    box-shadow: 2px 2px 50px rgb(234, 54, 54);
+ }
+ #yellow:hover{
+    box-shadow: 2px 2px 50px rgb(218, 244, 72);
+ }
+ #green:hover{
+    box-shadow: 2px 2px 50px rgb(11, 145, 11);
+ }
